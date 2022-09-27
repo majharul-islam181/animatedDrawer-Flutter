@@ -5,6 +5,11 @@ A new Flutter project.
 ```
 ## Getting Started
 ```
+environment:
+  sdk: '>=2.18.1 <3.0.0'
+```
+##
+```
 import 'package:flutter/material.dart';
 
 class Neumorphism extends StatefulWidget {
